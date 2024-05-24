@@ -1,0 +1,78 @@
+.head {
+    margin-left: 10%;
+    margin-top: 2%;
+    background: linear-gradient(to right,#1abae2,#ffffff);
+    border-radius: 10px;
+    }
+.head a{
+    padding-left: 2%;
+    text-decoration: none;
+    margin-right: 1%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 500;
+    color: rgb(255, 255, 255);
+    font-size: xx-large;
+}
+.tr {
+    margin-top: 10px;
+    margin-left: 60%;
+    background: -webkit-linear-gradient(#000000,#108bff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.tr a{
+    text-decoration: none;
+    margin-right: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    color: #000;
+    font-size: larger;
+    padding-left: 5px;
+}
+.tr a:hover{
+    background-color: black;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.box {
+    border: 3px solid whitesmoke;
+    margin-top: 3%;
+    margin-left: 20%;
+    margin-right: 15%;
+    border-radius: 10px;
+}
+
+.box h1{
+    padding-left: 35%;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 300;
+    background: -webkit-linear-gradient(#000,#147eaf);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.aboutme{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    color: #000;
+    text-decoration: underline;
+}
+
+.row{
+    margin-top: 70px;
+    margin-left: 10%;
+}
+
+.column img{
+    height: 42vh;
+}
+
+.column {
+    float: left;
+}
+.row p{
+    font-size: medium;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 200;
+    font-style: italic;
+}
